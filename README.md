@@ -9,7 +9,7 @@ The problem environments used in the book (summarized in Appendix F) have been i
 
 ## Code
 
-All textbook code can be found in this [repository](https://github.com/algorithmsbooks/decisionmaking-code).
+All textbook typeset code blocks can be found in this [repository](https://github.com/algorithmsbooks/decisionmaking-code).
 
 ## Figures
 
