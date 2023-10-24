@@ -5,7 +5,7 @@ This repository contains resources related to [Algorithms for Decision Making](h
 
 ## Problem definitions
 
-The problem environments used in the book (summarized in Appendix F) have been implemented in the Julia package [DecisionMakingProblems.jl](https://algorithmsbook.com/decisionmaking).
+The problem environments used in the book (summarized in Appendix F) have been implemented in the Julia package [DecisionMakingProblems.jl](https://algorithmsbook.com/decisionmaking](https://github.com/algorithmsbooks/DecisionMakingProblems.jl).
 
 ## Code
 
